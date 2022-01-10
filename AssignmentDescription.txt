@@ -1,0 +1,25 @@
+1.) create a program that reads each line from a file named "inputFile.txt" and writes
+ the the each line to a new file called "outputFile.txt" file with "line output: " infront of each line
+If the output file does not exist have it create it if it does exist overwrite the existing file 
+ Example inputFile.txt:
+ 
+2.)The main point of this assignment is to give you practice on looking up how to do something that 
+you do not know how to do.  
+
+3.) Try to keep searches simple like: "read from file Java"  "write to file Java" "overwrite existing file java"
+normally sticking to StackOverflow or tutorial sites like geeksforgeeks, w3schools, tutorialspoint etc are easiest.
+ 
+joe
+adf
+frank
+bob
+some line of text
+
+
+example outputFile.txt:
+
+line output: joe
+line output: adf
+line output: frank
+line output: bob
+line output: some line of text
